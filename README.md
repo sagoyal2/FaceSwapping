@@ -8,7 +8,7 @@
 |:---:|:---:|
 |![Prince_Charles_0002](docs/results_images/test_Prince_Charles_0002_to_Hermando_Harton_0001/Prince_Charles_0002.jpg)|![VHFQ Target and Swap](docs/results_images/test_Prince_Charles_0002_to_vfhq_1_448_448/original_and_output.gif)|
 
-This repository is small project where we train a face swapping model from an existing dataset, entirely from scratch. We **strongly recommend** the user to read through the [Design Choices](docs/DesignChoices.md) document, as it covers the training pipeline all available features.
+This repository is small project where we train a face swapping model from an existing [dataset](https://www.kaggle.com/datasets/atulanandjha/lfwpeople/data?select=lfw-funneled.tgz) entirely from scratch. We **strongly recommend** the user to read through the [Design Choices](docs/DesignChoices.md) document, as it covers all aspects of the training pipeline (data curation, architecture, evaluation, etc.) in detail.
 
 TLDR:
 - You can use this repo for face swapping images and videos
