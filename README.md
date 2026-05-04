@@ -21,7 +21,7 @@ TLDR:
 
 Clone Repo
 ```
-git clone https://github.com/sagoyal2/DemoFaceSwapping.git
+git clone https://github.com/sagoyal2/FaceSwapping.git DemoFaceSwapping
 ```
 
 Create and enable environment (with uv)
