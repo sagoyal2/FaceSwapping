@@ -70,7 +70,7 @@ mkdir ~/DemoFaceSwappingData/arcface_checkpoint
 mv arcface_checkpoint.tar ~/DemoFaceSwappingData/arcface_checkpoint/arcface_checkpoint.tar 
 ```
 
-Download Segmentation Model given by [BiSiNet](https://github.com/yakhyo/face-parsing)
+Download Segmentation Model given by [BiSeNet](https://github.com/yakhyo/face-parsing)
 ```
 curl -L -o resnet18.onnx https://github.com/yakhyo/face-parsing/releases/download/weights/resnet18.onnx
 mkdir ~/DemoFaceSwappingData/segmentation_model
